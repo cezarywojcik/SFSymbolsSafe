@@ -1,6 +1,6 @@
 # SFSymbolsSafe
 
-The new [SF Symbols] Apple has provided are an excellent set of a lot of sweet icons to use in iOS apps.
+The new [SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/) Apple has provided are an excellent set of a lot of sweet icons to use in iOS apps.
 
 However, if you're like me, raw string APIs like this scare the living daylights out of you:
 
